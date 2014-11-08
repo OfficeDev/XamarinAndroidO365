@@ -10,13 +10,14 @@ The sample builds a Xamarin binding to ADAL's native Android Library. The genera
 ADAL team is planning on adding more robust support to Xamarin projects, but until then, Xamarin bindings will help you build the ADAL library you need for your Android projects. You can download and use [ADAL v3.0 preview](http://www.cloudidentity.com/blog/2014/10/30/adal-net-v3-preview-pcl-xamarin-support/) if you are interested to see ADAL vNext. ADAl v3.0 is a PCL and comes with support for Xamarin Android and iOS projects as well. However, please remember that ADAL v3.0 is still a preview and is not recommended to use in production. Here is an [ADAL sample that uses ADAL v3.0 preview](https://github.com/AzureADSamples/NativeClient-MultiTarget-DotNet).
 
 This sample has threee projects:
-1. XamarinOffice365.AdalBindings
+
+####XamarinOffice365.AdalBindings
 This is the actual Xamarin binding project. Read more here to understand how to keep up this project with the latest ADAL Android Library and build the binding project.
 
-2. XamarinOffice365.AndroidHelloworld
+####XamarinOffice365.AndroidHelloworld
 A simple Xamarin Hello World that authenticates and gets a token for Office 365 API discovery service. Useful if you want to have a simple project for getting started with using the ADAL Bindings for Xamarin Android.
 
-3. XamarinOffice365.Droid
+####XamarinOffice365.Droid
 This project describes the code to interact with the Exchange Contacts API and query your contacts. 
 
 ## How to Run this Sample
