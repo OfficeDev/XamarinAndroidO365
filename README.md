@@ -12,7 +12,7 @@ ADAL team is planning on adding more robust support to Xamarin projects, but unt
 This sample has threee projects:
 
 ####XamarinOffice365.AdalBindings
-This is the actual Xamarin binding project. Read more here to understand how to keep up this project with the latest ADAL Android Library and build the binding project.
+This is the actual Xamarin binding project. Read more [here](http://chakkaradeep.com/index.php/getting-started-with-office-365-apis-and-xamarin-projects/) to understand how to build the Xamarin binginds project with the latest ADAL Android Library.
 
 ####XamarinOffice365.AndroidHelloworld
 A simple Xamarin Hello World that authenticates and gets a token for Office 365 API discovery service. Useful if you want to have a simple project for getting started with using the ADAL Bindings for Xamarin Android.
