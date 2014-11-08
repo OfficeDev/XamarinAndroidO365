@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="XamarinOffice365.Droid" android:versionCode="1" android:versionName="1.0">
+	<uses-sdk />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+  <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+  <uses-permission android:name="android.permission.ACCOUNT_MANAGER" />
+	<application android:label="XamarinOffice365.Droid" android:icon="@drawable/Icon">
+		<activity android:name="com.microsoft.aad.adal.AuthenticationActivity"></activity>
+	</application>
+</manifest>
