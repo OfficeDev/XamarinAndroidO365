@@ -43,6 +43,8 @@ Follow the steps [here](http://msdn.microsoft.com/library/azure/dn132599.aspx) t
 1. Client Id
 2. Redirect URI
 
+Under **permissions to other applications**, select **Office 365 Exchange Online** as the application and set the following permissions **Read users' contacts**.
+
 ### Update MainActivity.cs
 Insert the copied Client Id and Redirect URI in the respective variables where it says:
 
