@@ -1,7 +1,7 @@
 Xamarin Android Office 365 API Sample
 ======================================
 
-###Step 0: Introduction
+###Introduction
 
 This sample shows how to use query Office 365 API service from a Xamarin Android project. 
 
