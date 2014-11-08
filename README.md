@@ -5,7 +5,7 @@ Xamarin Android Office 365 API Sample
 
 This sample shows how to use query Office 365 API service from a Xamarin Android project. 
 
-The sample builds a Xamarin binding to ADAL's native Android Library. The generated binding is then referenced by specific Android projects to authenticate and get tokens for Office 365 API resources.
+The sample builds a [Xamarin binding](http://developer.xamarin.com/guides/android/advanced_topics/java_integration_overview/binding_a_java_library_(.jar)/) to [ADAL's native Android Library](https://github.com/AzureAD/azure-activedirectory-library-for-android). The generated binding is then referenced by specific Android projects to authenticate and get tokens for Office 365 API resources.
 
 ADAL team is planning on adding more robust support to Xamarin projects, but until then, Xamarin bindings will help you build the ADAL library you need for your Android projects. You can download and use [ADAL v3.0 preview](http://www.cloudidentity.com/blog/2014/10/30/adal-net-v3-preview-pcl-xamarin-support/) if you are interested to see ADAL vNext. ADAl v3.0 is a PCL and comes with support for Xamarin Android and iOS projects as well. However, please remember that ADAL v3.0 is still a preview and is not recommended to use in production. Here is an [ADAL sample that uses ADAL v3.0 preview](https://github.com/AzureADSamples/NativeClient-MultiTarget-DotNet).
 
