@@ -60,7 +60,7 @@
     <EmbeddedJar Include="Jars\classes.jar" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedJar Include="Jars\android-support-v4.jar" />
+    <EmbeddedReferenceJar Include="Jars\android-support-v4.jar" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.Bindings.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
