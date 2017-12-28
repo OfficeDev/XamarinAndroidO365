@@ -55,3 +55,6 @@ internal string RedirectUri = "[insert-your-redirect-uri]";
 ### Build and Debug the Application
 Hit Debug or Press F5 to build and debug the application!
 
+
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
