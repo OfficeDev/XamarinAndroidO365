@@ -1,3 +1,13 @@
+---
+topic: sample
+products:
+- Office 365
+languages:
+- C#
+extensions:
+  contentType: samples
+  createdDate: 11/7/2014 5:54:20 PM
+---
 Xamarin Android Office 365 API Sample
 ======================================
 
